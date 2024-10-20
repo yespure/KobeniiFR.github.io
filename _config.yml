@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: KobeniiFR
+subtitle: 'Michael Li'
+description: 'Michael's personal portfolio website'
 keywords:
-author: John Doe
+author: Michael Li
 language: en
-timezone: ''
+timezone: 'America'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://yespure.github.io/
+url: KobeniiFR.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
