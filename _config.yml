@@ -5,15 +5,15 @@
 # Site
 title: KobeniiFR
 subtitle: 'Michael Li'
-description: 'Michael's personal portfolio website'
+description: "Michael's personal portfolio website"
 keywords:
 author: Michael Li
-language: en
-timezone: 'America'
+language: zh-CN
+timezone: 'Asia/Shanghai' # 这个有特定的格式
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: KobeniiFR.com
+url: "https://yespure.github.io"
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
