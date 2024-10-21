@@ -68,29 +68,29 @@ nav:
 # Home Top Banner
 # 首页顶部
 hometop:
-  enable: false
+  enable: true
   banner:
-    title: # Tranquility <br>and love life / 宁静致远 <br> 热爱生活 # Title
+    title: Tranquility <br>and love life / 宁静致远 <br> 热爱生活 # Title
     url: Hexo Theme Solitude
     icon:
-      # HTML: # name
-      #   img: https://i.postimg.cc/vBWVnY8q/html.png # url
-      #   color: "#e9572b" # color
-      # JS:
-      #   img: https://i.postimg.cc/3N10Ltv2/js.png
-      #   color: "#f7cb4f"
-      # Docker:
-      #   img: https://i.postimg.cc/8Pk6Fg24/docker.png
-      #   color: "#57b6e6"
-      # Flutter:
-      #   img: https://i.postimg.cc/hPC7T3gB/flutter.png
-      #   color: "#ffffff"
-      # WebPack:
-      #   img: https://i.postimg.cc/dVLZBmtT/webpack.png
-      #   color: "#2e3a41"
-      # Git:
-      #   img: https://i.postimg.cc/nhgjwjCS/git.png
-      #   color: "#df5b40"
+      HTML: # name
+        img: https://i.postimg.cc/vBWVnY8q/html.png # url
+        color: "#e9572b" # color
+      JS:
+        img: https://i.postimg.cc/3N10Ltv2/js.png
+        color: "#f7cb4f"
+      Docker:
+        img: https://i.postimg.cc/8Pk6Fg24/docker.png
+        color: "#57b6e6"
+      Flutter:
+        img: https://i.postimg.cc/hPC7T3gB/flutter.png
+        color: "#ffffff"
+      WebPack:
+        img: https://i.postimg.cc/dVLZBmtT/webpack.png
+        color: "#2e3a41"
+      Git:
+        img: https://i.postimg.cc/nhgjwjCS/git.png
+        color: "#df5b40"
   group:
     # 热门: /tags/Fire/ || fas fa-fire || linear-gradient(to right,#f65,#ffbf37)
   recommendList:
@@ -171,58 +171,58 @@ aside:
     backcolor: "var(--efu-blue)" # Background color
   # --------------------------- end ---------------------------
 
-  # --------------------------- start ---------------------------
-  # article table of contents
-  # 文章目录
-  toc:
-    post: true
-    page: false
-    vague: true
-  # --------------------------- end ---------------------------
+# --------------------------- start ---------------------------
+# article table of contents
+# 文章目录
+toc:
+  post: true
+  page: false
+  vague: true
+# --------------------------- end ---------------------------
 
-  # --------------------------- start ---------------------------
-  # Tags
-  # 标签
-  tags:
-    enable: false
-    limit: 20 # Number of tags displayed
-    # Highlighted tags
-    highlight_list:
-      # - Hexo
-  # --------------------------- end ---------------------------
+# --------------------------- start ---------------------------
+# Tags
+# 标签
+tags:
+  enable: false
+  limit: 20 # Number of tags displayed
+  # Highlighted tags
+  highlight_list:
+    # - Hexo
+# --------------------------- end ---------------------------
 
-  # --------------------------- start ---------------------------
-  # Archive
-  # 归档
-  archive:
-    enable: false
-    type: "month" # month: by month / year: by year
-  # --------------------------- end ---------------------------
+# --------------------------- start ---------------------------
+# Archive
+# 归档
+archive:
+  enable: false
+  type: "month" # month: by month / year: by year
+# --------------------------- end ---------------------------
 
-  # --------------------------- start ---------------------------
-  # Site Info
-  # 网站信息
-  siteinfo:
-    # Number of articles
-    # 文章数量
-    postcount: true
-    # Total number of words
-    # 总字数
-    wordcount: false
-    # PV
-    pv: true
-    # UV
-    uv: true
-    # Last update date
-    # 最后更新日期
-    updatetime: true
-    # Website creation time
-    # 网站创建时间
-    runtimeenable: true
-    # Format: yyyy-MM-dd hh-mm-ss
-    # 格式: yyyy-MM-dd hh-mm-ss
-    runtime: "2023-04-20 00:00:00"
-  # --------------------------- end ---------------------------
+# --------------------------- start ---------------------------
+# Site Info
+# 网站信息
+siteinfo:
+  # Number of articles
+  # 文章数量
+  postcount: true
+  # Total number of words
+  # 总字数
+  wordcount: false
+  # PV
+  pv: true
+  # UV
+  uv: true
+  # Last update date
+  # 最后更新日期
+  updatetime: true
+  # Website creation time
+  # 网站创建时间
+  runtimeenable: true
+  # Format: yyyy-MM-dd hh-mm-ss
+  # 格式: yyyy-MM-dd hh-mm-ss
+  runtime: "2023-04-20 00:00:00"
+# --------------------------- end ---------------------------
 # --------------------------- end ---------------------------
 
 # --------------------------- start ---------------------------
